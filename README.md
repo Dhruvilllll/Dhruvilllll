@@ -2,7 +2,7 @@
 <a href="https://twitter.com/d_malvania/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/Dhruvilllll/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-Check out my blog at [https://dhruvilllll.github.io/](https://Dhruvilllll.github.io/)!
+Check out my portfolio at [https://dhruvilllll.github.io/](https://Dhruvilllll.github.io/portfolio)!
 
 ## About Me
 I am **Dhruvil Malvania** , a *student* at **GIT** , living in **India IN** .
