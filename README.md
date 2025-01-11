@@ -13,7 +13,6 @@ I am currently a student in 2nd year pursuing Bachelors at Gandhinagar Institute
       <br>
       <br>
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
       <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg"> 
     </kbd>
     <kbd>
