@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am currently a student in 2nd year pursuing Bachelors at Gandhinagar Institute of Technology. I am so passionate in the field of Data Science and tho I have learnt many libraries and the important things which are useful in my field and still learning more
+Motivated 3rd-year B.Tech CSE student at Gandhinagar University with hands-on experience in machine learning, NLP,
+and large language model (LLM) integration. Proficient in building end-to-end ML pipelines, feature engineering, and data
+visualization to deliver actionable insights.
+Skilled in Python, SQL, TensorFlow, PyTorch, Hugging Face, and MLOps tools (Docker, GitHub Actions). Demonstrated
+success in predictive analytics, data visualization (Power BI, Matplotlib, Seaborn), and deploying ML models.
+Passionate about designing and deploying AI-driven solutions. Actively seeking opportunities as a Data Scientist or ML
+Engineer to deliver scalable machine learning models, actionable insights, and production-ready AI systems.
+
 
 
 ## 🌐 Socials:
